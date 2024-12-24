@@ -1,5 +1,7 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
 
+**Date** 29/10/2024
+
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -62,17 +64,17 @@ assign c= ( y1 | y3 | y5 | y7);
 endmodule
 ```
 
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+**RTL**
 
 ![ex-5 output 1](https://github.com/user-attachments/assets/f1cdc1d7-34f1-42db-8799-04f42063aea2)
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**Output**
 
 ![ex-5 output 2](https://github.com/user-attachments/assets/bfdb1443-e47d-4016-a6f2-bee91b798345)
 
 
-**RESULTS**
+**RESULT**
 Implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
 
 
